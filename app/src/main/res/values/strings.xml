@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UAS AKB IF-2 10119082</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Profil Mahassiwa</string>
+    <string name="menu_gallery">Catatan Harian</string>
+    <string name="menu_slideshow">Informasi Aplikasi</string>
+    <string name="myapp">Story Notes</string>
+
+    <string name="judul1">Story Notes (Stnote)</string>
+    <string name="judul2">Maksud dan Tujuan Aplikasi</string>
+    <string name="judul3">Informasi Aplikasi</string>
+
+    <string name="desk_1">Aplikasi untuk menuliskan catatan atau cerita hari dari user</string>
+    <string name="desk_2">Aplikasi ini berjutuan untuk memenuhi tugas UAS AKB IF2</string>
+    <string name="desk_3">Dalam aplikasi ini terdapat fitur login dengan menggunakan firebase, apabila belum memiliki akun user juga bisa menggunakan fitur register/signup untuk membuat akun terlebih dahulu agar bisa melanjutkan masuk ke app. Dalam app terdapat info mahasiswa pembuat app, Pembuat catatan dengan fitur CRUD, dan view pager yang berisi info app.</string>
+
+</resources>
